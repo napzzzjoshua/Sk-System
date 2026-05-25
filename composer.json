@@ -1,0 +1,6 @@
+{
+    "name": "sksystem/thesis",
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
